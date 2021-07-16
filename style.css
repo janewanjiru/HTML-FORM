@@ -1,0 +1,24 @@
+body{
+    background-color:green;
+}
+h1{
+    color:gold ;
+    margin-left: 31%;
+
+}
+h2{
+    color: goldenrod;
+    margin-left: 33%;
+
+}
+p{
+    color: goldenrod;
+    font-size: 25px;
+    margin-left: 20%;
+
+}
+.form{
+    font-size: 18;
+    margin-left: 33%;
+    font-size:20px ;
+}
